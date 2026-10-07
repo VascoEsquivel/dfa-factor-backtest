@@ -1,0 +1,9 @@
+yfinance>=1.0           # prices + fundamentals snapshot (free, no API key)
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+requests>=2.31          # Wikipedia scrape + Ken French data library
+lxml>=5.0               # pandas.read_html parser for the Wikipedia table
+sqlalchemy>=2.0
+psycopg2-binary>=2.9
+python-dotenv>=1.0
